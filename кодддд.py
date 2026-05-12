@@ -7,7 +7,7 @@ import os
 import re
 
 # Токен вашего бота
-TOKEN = '8437800508:AAEiKX0T2YX9pWhJbJexcgxbg0MOdtVXixE'  # Замените на ваш токен
+TOKEN = 'не скажу!'  
 
 bot = telebot.TeleBot(TOKEN)
 
